@@ -1,0 +1,26 @@
+body {
+    background-color: #FFF9DB; /* Mellow Yellow background */
+}
+.container {
+    background-color: #FFFAE6;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #e1c26f;
+}
+h2 {
+    color: #A67C00;
+}
+table th {
+    background-color: #FFE066;
+}
+.btn-request {
+    background-color: #FFD54F;
+    color: #5D4037;
+}
+.btn-request:hover {
+    background-color: #FFC107;
+}
+img.thumbnail {
+    max-width: 80px;
+    max-height: 80px;
+}

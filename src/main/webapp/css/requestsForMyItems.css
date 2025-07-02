@@ -1,0 +1,18 @@
+body {
+    background-color: #FFF9DB;
+}
+.container {
+    background-color: #FFFAE6;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #e1c26f;
+}
+h2 {
+    color: #A67C00;
+}
+table th {
+    background-color: #FFE066;
+}
+.btn-warning, .btn-danger, .btn-success {
+    margin-right: 5px;
+}

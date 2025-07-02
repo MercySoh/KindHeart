@@ -1,0 +1,21 @@
+body {
+    background-color: #FFF9DB;
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin-top: 50px;
+    max-width: 900px;
+}
+h2 {
+    color: #A67C00;
+    margin-bottom: 20px;
+}
+table {
+    background-color: #FFFAE6;
+    border-radius: 8px;
+    box-shadow: 0 0 8px #e1c26f;
+}
+th, td {
+    text-align: center;
+    vertical-align: middle !important;
+}

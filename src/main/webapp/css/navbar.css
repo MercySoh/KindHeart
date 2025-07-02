@@ -1,0 +1,15 @@
+.custom-navbar {
+    background-color: #fdd835;
+}
+.custom-navbar .nav-link,
+.custom-navbar .navbar-brand {
+    color: #5c4600;
+}
+.custom-navbar .nav-link:hover {
+    color: #000;
+}
+/* Notification badge tweaks */
+.badge {
+    font-size: 0.7rem;
+    font-weight: bold;
+}

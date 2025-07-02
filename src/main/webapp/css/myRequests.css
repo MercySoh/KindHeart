@@ -1,0 +1,36 @@
+body {
+    background-color: #FFF9DB;
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color: #FFFAE6;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #e1c26f;
+    max-width: 900px;
+    margin: 40px auto;
+}
+h2 {
+    color: #A67C00;
+    margin-bottom: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table th {
+    background-color: #FFE066;
+    padding: 12px;
+    text-align: left;
+}
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+table tr:hover {
+    background-color: #FFF2A6;
+}
+.status-pending { color: #d48806; font-weight: bold; }
+.status-approved { color: #2f855a; font-weight: bold; }
+.status-rejected { color: #c53030; font-weight: bold; }
+.status-collected { color: #276749; font-weight: bold; }

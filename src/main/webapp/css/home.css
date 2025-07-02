@@ -1,0 +1,25 @@
+body {
+    background-color: #fff9e6;
+}
+.card {
+    background-color: #fff3cd;
+    border: none;
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: scale(1.02);
+}
+.card a {
+    color: #5c4200;
+    text-decoration: none;
+}
+.dashboard-header {
+    margin-bottom: 40px;
+}
+.btn-logout {
+    background-color: #ffc107;
+    border: none;
+}
+.btn-logout:hover {
+    background-color: #e0a800;
+}

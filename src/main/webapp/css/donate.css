@@ -1,0 +1,47 @@
+body {
+    background-color: #F8E471; /* Mellow Yellow Background */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 50px;
+}
+
+h2 {
+    color: #555;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #F8E471; /* Mellow Yellow for Button */
+    color: #000;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #FFD700; /* Darker yellow on hover */
+}
+
+.btn-secondary {
+    background-color: #ccc;
+    color: #000;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #bbb;
+}
+
+.alert-info {
+    background-color: #F8E471;
+    color: #000;
+    font-weight: bold;
+}

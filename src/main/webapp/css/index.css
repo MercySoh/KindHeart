@@ -1,0 +1,155 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffbea; /* very light yellow background */
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #fdd835; /* vibrant yellow */
+    color: #333;
+    padding: 10px 0;
+}
+
+header .container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+header h1{
+    font-size: 45px;
+    text-align: left;
+}
+
+/* Main Content */
+/*main {*/
+/*    padding: 40px 0;*/
+/*}*/
+
+.intro {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #fff9c4; /* light yellow section */
+}
+
+.intro h2 {
+    font-size: 36px;
+    color: #fbc02d;
+}
+
+.intro p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.donate-btn,
+.request-btn {
+    background-color: #fbc02d;
+    color: white;
+    padding: 12px 30px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.donate-btn:hover,
+.request-btn:hover {
+    background-color: #f9a825;
+}
+
+.donate-btn a,
+.request-btn a {
+    color: white;
+    text-decoration: none;
+}
+
+/* How it works section */
+.how-it-works {
+    background-color: #fffde7;
+    padding: 40px 0;
+}
+
+.how-it-works h3 {
+    text-align: center;
+    font-size: 28px;
+    color: #fbc02d;
+    margin-bottom: 30px;
+}
+
+.steps {
+    display: flex;
+    justify-content: space-around;
+}
+
+.step {
+    text-align: center;
+    width: 30%;
+}
+
+.step h4 {
+    font-size: 24px;
+    color: #fbc02d;
+}
+
+.step p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .steps {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .step {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+    }
+}
