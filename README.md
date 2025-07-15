@@ -31,3 +31,17 @@
 <li>Request History – View the history of requested items.</li>
 
 ## Screenshots
+Landing page:
+![](C:\Users\asus\Documents\app img\index.JPG)
+
+Donor home page:
+![](C:\Users\asus\Documents\app img\donorHome.JPG)
+
+Add donation form:
+![](C:\Users\asus\Documents\app img\donorForm.JPG)
+
+Recipient home page:
+![](C:\Users\asus\Documents\app img\recipientHome.JPG)
+
+Browse available item page:
+![](C:\Users\asus\Documents\app img\browseItem.JPG)
