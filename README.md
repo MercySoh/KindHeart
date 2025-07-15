@@ -32,16 +32,16 @@
 
 ## Screenshots
 Landing page:
-![](C:\Users\asus\Documents\app img\index.JPG)
+<img src="C:\Users\asus\Documents\app img\index.JPG"/>
 
 Donor home page:
-![](C:\Users\asus\Documents\app img\donorHome.JPG)
+<img src="C:\Users\asus\Documents\app img\donorHome.JPG"/>
 
 Add donation form:
-![](C:\Users\asus\Documents\app img\donorForm.JPG)
+<img src="C:\Users\asus\Documents\app img\donorForm.JPG"/>
 
 Recipient home page:
-![](C:\Users\asus\Documents\app img\recipientHome.JPG)
+<img src="C:\Users\asus\Documents\app img\recipientHome.JPG"/>
 
 Browse available item page:
-![](C:\Users\asus\Documents\app img\browseItem.JPG)
+<img src="C:\Users\asus\Documents\app img\browseItem.JPG"/>
