@@ -22,7 +22,9 @@
 <li>View Custom Requests – Browse all custom item requests submitted by recipients.</li>
 <li>Donation History – View the history of all donated items.</li>
 <br>
+
 <b>Recipient Home Page Features:</b>
+
 <li>Browse Available Donations – View a list of all currently available donated items.</li>
 <li>View My Requests – Track the status and actions of item requests.</li>
 <li>Create Custom Request – Submit a custom item request.</li>
