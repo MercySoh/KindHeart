@@ -16,7 +16,6 @@
 <ul>The home page dynamically changes based on the user type.</ul>
 
 <b>Donor Home Page Features:</b>
-
 <li>Donate Items – Add items to be donated.</li>
 <li>My Donations – Track and update the status of donated items.</li>
 <li>Requests Received – View item requests made by recipients.</li>
@@ -24,7 +23,6 @@
 <li>Donation History – View the history of all donated items.</li>
 
 <b>Recipient Home Page Features:</b>
-
 <li>Browse Available Donations – View a list of all currently available donated items.</li>
 <li>View My Requests – Track the status and actions of item requests.</li>
 <li>Create Custom Request – Submit a custom item request.</li>
