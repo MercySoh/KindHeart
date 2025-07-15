@@ -30,6 +30,13 @@
 <li>Create Custom Request – Submit a custom item request.</li>
 <li>Request History – View the history of requested items.</li>
 
+## Technology
+<p>Backend: Java Servlets, DAO pattern, JDBC</p> 
+<p>Database: MySQL</p>
+<p>Frontend: JSP + Bootstrap (HTML/CSS)</p>
+<p>Testing: Junit Test</p>
+<p>Deployment: AWS (Elastic Beanstalk)</p>
+
 ## Screenshots
 Landing page:
 ![index](https://github.com/user-attachments/assets/7fee9bd7-6ff6-4834-b06c-23d2bf6ed2cd)
