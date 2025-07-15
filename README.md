@@ -41,7 +41,7 @@ Add donation form:
 ![donorForm](https://github.com/user-attachments/assets/770de066-096b-4a01-bc69-cea0cb802d1c)
 
 Recipient home page:
-<img src="C:\Users\asus\Documents\app img\recipientHome.JPG"/>
+![recipientHome](https://github.com/user-attachments/assets/eda547c1-eac4-481d-a703-051ceae6ae08)
 
 Browse available item page:
-<img src="C:\Users\asus\Documents\app img\browseItem.JPG"/>
+![browseItem](https://github.com/user-attachments/assets/b8f86fb6-0226-4913-b6c0-d3defea20bea)
