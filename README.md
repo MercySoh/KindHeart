@@ -32,13 +32,13 @@
 
 ## Screenshots
 Landing page:
-<img src="C:\Users\asus\Documents\app img\index.JPG"/>
+![index](https://github.com/user-attachments/assets/7fee9bd7-6ff6-4834-b06c-23d2bf6ed2cd)
 
 Donor home page:
-<img src="C:\Users\asus\Documents\app img\donorHome.JPG"/>
+![donorHome](https://github.com/user-attachments/assets/a3d4ef5c-dad9-4c7f-b479-568db86e0aa7)
 
 Add donation form:
-<img src="C:\Users\asus\Documents\app img\donorForm.JPG"/>
+![donorForm](https://github.com/user-attachments/assets/770de066-096b-4a01-bc69-cea0cb802d1c)
 
 Recipient home page:
 <img src="C:\Users\asus\Documents\app img\recipientHome.JPG"/>
